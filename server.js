@@ -2197,7 +2197,7 @@
     		"35c62d76-8152-4626-8712-eeb96381bea8": {
     			"email": "peter@abv.bg",
     			"hashedPassword": "83313014ed3e2391aa1332615d2f053cf5c1bfe05ca1cbcb5582443822df6eb1",
-          "name": "Peter",
+          "name": "Peter Petrov",
           "age": "31",
           "city": "Sofia",
           "img": "https://i.pinimg.com/originals/97/e4/2a/97e42a82fc7911961d3ca55f54d1372c.jpg",
@@ -2207,7 +2207,7 @@
     		"847ec027-f659-4086-8032-5173e2f9c93a": {
     			"email": "george@abv.bg",
     			"hashedPassword": "83313014ed3e2391aa1332615d2f053cf5c1bfe05ca1cbcb5582443822df6eb1",
-          "name": "George",
+          "name": "George Georgiev",
           "age": "28",
           "city": "Ruse",
           "img": "https://www.clinicdermatech.com/images/men-service-face.jpg",
@@ -2217,7 +2217,7 @@
     		"60f0cf0b-34b0-4abd-9769-8c42f830dffc": {
     			"email": "admin@abv.bg",
     			"hashedPassword": "83313014ed3e2391aa1332615d2f053cf5c1bfe05ca1cbcb5582443822df6eb1",
-          "name": "Admin",
+          "name": "Admin Adminov",
           "age": "33",
           "city": "Any",
           "img": "https://i.pinimg.com/originals/f6/a9/cf/f6a9cff61e65a034fce9b54420cc6ff5.jpg",
