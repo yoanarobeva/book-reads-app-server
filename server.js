@@ -1082,8 +1082,7 @@
     		"35c62d76-8152-4626-8712-eeb96381bea8": {
     			email: "peter@abv.bg",
     			hashedPassword: "83313014ed3e2391aa1332615d2f053cf5c1bfe05ca1cbcb5582443822df6eb1",
-          role: "admin",
-          name: "Peter",
+          name: "Peter Ivanov",
           age: "31",
           city: "Sofia",
           img: "https://i.pinimg.com/originals/97/e4/2a/97e42a82fc7911961d3ca55f54d1372c.jpg",
@@ -1092,8 +1091,7 @@
     		"847ec027-f659-4086-8032-5173e2f9c93a": {
     			email: "george@abv.bg",
     			hashedPassword: "83313014ed3e2391aa1332615d2f053cf5c1bfe05ca1cbcb5582443822df6eb1",
-          role: "admin",
-          name: "George",
+          name: "George Georgiev",
           age: "28",
           city: "Ruse",
           img: "https://www.clinicdermatech.com/images/men-service-face.jpg",
@@ -1101,13 +1099,21 @@
     		},
     		"60f0cf0b-34b0-4abd-9769-8c42f830dffc": {
     			email: "admin@abv.bg",
-    			hashedPassword: "fac7060c3e17e6f151f247eacb2cd5ae80b8c36aedb8764e18a41bbdc16aa302",
-          role: "admin",
-          name: "Admin",
+    			hashedPassword: "83313014ed3e2391aa1332615d2f053cf5c1bfe05ca1cbcb5582443822df6eb1",
+          name: "Admin Adminov",
           age: "33",
           city: "Any",
           img: "https://i.pinimg.com/originals/f6/a9/cf/f6a9cff61e65a034fce9b54420cc6ff5.jpg",
           _createdOn: "2023-03-12 22:06:27"
+    		},
+        "455b415d-ce09-4895-986e-b8ce1a799a48": {
+    			email: "billgates@gmail.com",
+    			hashedPassword: "83313014ed3e2391aa1332615d2f053cf5c1bfe05ca1cbcb5582443822df6eb1",
+          name: "Bill Gates",
+          age: "67",
+          city: "Seattle",
+          img: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bill_Gates_2017_%28cropped%29.jpg/220px-Bill_Gates_2017_%28cropped%29.jpg",
+          _createdOn: "2023-07-12 20:08:47"
     		}
     	},
     	sessions: {
@@ -2037,25 +2043,155 @@
           "listId": "10015",
           "bookId": "82d77c01-610e-563e-8f14-073084cd4a58",
           "shelf": "want",
+          "_createdOn": "1690797112222"
         },
         "id2": {
           "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
           "listId": "10015",
           "bookId": "33e0a0a4-8158-58ef-9e88-1c49b4167580",
-          "shelf": "want",
-        },
-        "id4": {
-          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
-          "listId": "10015",
-          "bookId": "33e0a0a4-8158-58ef-9e88-1c49b4167580",
           "shelf": "currently",
+          "_createdOn": "1690797111111"
         },
         "id3": {
           "_ownerId": "60f0cf0b-34b0-4abd-9769-8c42f830dffc",
           "listId": "10015",
           "bookId": "33e0a0a4-8158-58ef-9e88-1c49b4167580",
           "shelf": "want",
-        }
+          "_createdOn": "1690797110385"
+        },
+        "cf6102d6-b947-465a-a10c-31bda6dca302": {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "listId": "17",
+          "bookId": "e2a3545e-e9cb-5828-9d97-50a798a0e4f6",
+          "shelf": "want",
+          "_createdOn": "1690797110384"
+        },
+        "4f7294ee-2749-469a-a35f-7a31d6d70402": {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "listId": "13",
+          "bookId": "ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
+          "shelf": "currently",
+          "_createdOn": "1690797133797"
+        },
+        "08c655ce-09ef-4455-ac95-7a5b926b110d": {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "listId": "302",
+          "bookId": "80848bc3-eb06-5a8f-a71e-9fe50bfba233",
+          "shelf": "read",
+          "_createdOn": "1690797141386"
+        },
+        "1f69be46-e189-4728-b0f0-b8f2abe718ae": {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "listId": "24",
+          "bookId": "b98f7ad9-aa29-5b5d-bee0-1aae5a523991",
+          "shelf": "read",
+          "_createdOn": "1690797147972"
+        },
+        "097c3ebd-31ea-4dff-bec2-6d75e66e8bbd": {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "listId": "10016",
+          "bookId": "14805c1f-c503-550e-912c-f90aa1507d04",
+          "shelf": "want",
+          "_createdOn": "1690797153760"
+        },
+        "2931192a-cac2-4e7d-8e37-2e4414b8fa53": {
+          "_ownerId": "455b415d-ce09-4895-986e-b8ce1a799a48",
+          "listId": "1",
+          "bookId": "dd6e4f9d-d082-552d-b888-7276a25b5aca",
+          "shelf": "want",
+          "_createdOn": "1690798247197"
+        },
+        "6b1834c6-2eeb-4ab6-aba8-c04cdc5dd9ca": {
+          "_ownerId": "455b415d-ce09-4895-986e-b8ce1a799a48",
+          "listId": "532",
+          "bookId": "0398a355-c032-534e-a0af-647b06f0840d",
+          "shelf": "want",
+          "_createdOn": "1690798252021"
+        },
+        "3196de95-0708-40e1-bba6-c18addcfa434": {
+          "_ownerId": "455b415d-ce09-4895-986e-b8ce1a799a48",
+          "listId": "532",
+          "bookId": "e9569270-fe3a-5fe4-a068-7eca3da622e7",
+          "shelf": "want",
+          "_createdOn": "1690798256806"
+        },
+        "68aafa9d-8df5-46db-84a9-e6697e7698c7": {
+          "_ownerId": "455b415d-ce09-4895-986e-b8ce1a799a48",
+          "listId": "13",
+          "bookId": "8384c64a-d0de-5285-9132-8f16cc7b085f",
+          "shelf": "currently",
+          "_createdOn": "1690798289537"
+        },
+        "ff7354ff-ea5c-4c5a-a6bf-98b6b80767df": {
+          "_ownerId": "455b415d-ce09-4895-986e-b8ce1a799a48",
+          "listId": "17",
+          "bookId": "0962ac94-2f91-5500-bcf8-24c90607bc4a",
+          "shelf": "read",
+          "_createdOn": "1690798296044"
+        },
+        "ed938d81-a361-44cf-989d-80f67db5e1a4": {
+          "_ownerId": "455b415d-ce09-4895-986e-b8ce1a799a48",
+          "listId": "301",
+          "bookId": "7cd90059-ec8b-53ae-8a5d-6697b3c191c7",
+          "shelf": "read",
+          "_createdOn": "1690798306393"
+        },
+        "ee352e72-21c6-4333-9e40-aea2dcc0bfe4": {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "listId": "302",
+          "bookId": "e093216d-a3f3-5b3b-8bee-fea6808cabb8",
+          "shelf": "want",
+          "_createdOn": "1690798247198"
+        },
+        "94db339a-879f-45ff-ab34-9d57c78c1a5e": {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "listId": "10016",
+          "bookId": "bc9d9c11-51e8-5885-9239-fa84b126632d",
+          "shelf": "want",
+          "_createdOn": "1690798247199"
+        },
+        "435ae8a4-f8d9-4edd-9711-3c7d9c84cbed": {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "listId": "719",
+          "bookId": "30ca1735-594d-5fb6-a065-cb9306f2071a",
+          "shelf": "want",
+          "_createdOn": "1690800320878"
+        },
+        "b72d406a-84c4-4a99-aa92-048534f42e95": {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "listId": "10018",
+          "bookId": "a4906c3b-1e9c-5855-9abb-7ea8aff4b7cb",
+          "shelf": "want",
+          "_createdOn": "1690800333654"
+        },
+        "e4c90bee-c97a-4eed-a036-a9e8e07c3c37": {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "listId": "302",
+          "bookId": "cdd69a90-455d-5194-8060-86c0df2ea509",
+          "shelf": "want",
+          "_createdOn": "1690800339346"
+        },
+        "635fcb7a-78c8-48a7-bf1f-dcde206e57d4": {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "listId": "13",
+          "bookId": "ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
+          "shelf": "read",
+          "_createdOn": "1690800352699"
+        },
+        "1342c6d9-e998-45ca-b0b9-3414629cb7a7": {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "listId": "24",
+          "bookId": "61980bbe-79bd-5824-9412-31c5f07762fd",
+          "shelf": "read",
+          "_createdOn": "1690800367074"
+        },
+        "d1dd249e-ffe3-4e49-a07f-662c4835498a": {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "listId": "532",
+          "bookId": "b0fe54f6-2468-55d3-bedf-0338f98478e6",
+          "shelf": "read",
+          "_createdOn": "1690800372294"
+        },
       },
       usersInfo: {
     		"35c62d76-8152-4626-8712-eeb96381bea8": {
@@ -2080,17 +2216,203 @@
     		},
     		"60f0cf0b-34b0-4abd-9769-8c42f830dffc": {
     			"email": "admin@abv.bg",
-    			"hashedPassword": "fac7060c3e17e6f151f247eacb2cd5ae80b8c36aedb8764e18a41bbdc16aa302",
+    			"hashedPassword": "83313014ed3e2391aa1332615d2f053cf5c1bfe05ca1cbcb5582443822df6eb1",
           "name": "Admin",
           "age": "33",
           "city": "Any",
           "img": "https://i.pinimg.com/originals/f6/a9/cf/f6a9cff61e65a034fce9b54420cc6ff5.jpg",
           "_createdOn": "2023-03-12 22:06:27",
           "_ownerId": "60f0cf0b-34b0-4abd-9769-8c42f830dffc"
+    		},
+        "0187ada9-de3c-44b6-9e3a-a10df426d5be": {
+    			"email": "billgates@gmail.com",
+    			"hashedPassword": "83313014ed3e2391aa1332615d2f053cf5c1bfe05ca1cbcb5582443822df6eb1",
+          "name": "Bill Gates",
+          "age": "67",
+          "city": "Seattle",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bill_Gates_2017_%28cropped%29.jpg/220px-Bill_Gates_2017_%28cropped%29.jpg",
+          "_createdOn": "2023-07-12 20:08:47",
+          "_ownerId": "455b415d-ce09-4895-986e-b8ce1a799a48",
     		}
     	},
-      friends: {},
-      activities: {},
+      friends: {
+        "7cb2f8ae-d7ea-4b12-a0a0-6a69079e71d4": {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "friendId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "_createdOn": "1690797057946",
+        },
+        "df6439a8-403e-4af6-bb0f-43af17ce608e": {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "friendId": "0187ada9-de3c-44b6-9e3a-a10df426d5be",
+          "_createdOn": "1690798701226",
+        },
+        "74519cb7-b4a7-441f-8e4d-f88961dae4d1": {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "friendId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "_createdOn": "1690800843125",
+        },
+        "fd3b2694-e04c-484e-b174-9a17ad0338b7": {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "friendId": "0187ada9-de3c-44b6-9e3a-a10df426d5be",
+          "_createdOn": "1690800921932",
+        },
+      },
+      activities: {
+        "001" : {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "activity": "want",
+          "listId": "10015",
+          "bookId": "82d77c01-610e-563e-8f14-073084cd4a58",
+          "_createdOn": "1690797112222"
+        },
+        "002" : {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "activity": "currently",
+          "listId": "10015",
+          "bookId": "33e0a0a4-8158-58ef-9e88-1c49b4167580",
+          "_createdOn": "1690797111111"
+        },
+        "003" : {
+          "_ownerId": "60f0cf0b-34b0-4abd-9769-8c42f830dffc",
+          "activity": "want",
+          "listId": "10015",
+          "bookId": "33e0a0a4-8158-58ef-9e88-1c49b4167580",
+          "_createdOn": "1690797110385"
+        },
+        "004" : {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "activity": "want",
+          "listId": "17",
+          "bookId": "e2a3545e-e9cb-5828-9d97-50a798a0e4f6",
+          "_createdOn": "1690797110384"
+        },
+        "005" : {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "activity": "currently",
+          "listId": "13",
+          "bookId": "ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
+          "_createdOn": "1690797133797"
+        },
+        "006" : {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "activity": "read",
+          "listId": "302",
+          "bookId": "80848bc3-eb06-5a8f-a71e-9fe50bfba233",
+          "_createdOn": "1690797141386"
+        },
+        "007" : {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "activity": "read",
+          "listId": "24",
+          "bookId": "b98f7ad9-aa29-5b5d-bee0-1aae5a523991",
+          "_createdOn": "1690797147972"
+        },
+        "008" : {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "activity": "want",
+          "listId": "10016",
+          "bookId": "14805c1f-c503-550e-912c-f90aa1507d04",
+          "_createdOn": "1690797153760"
+        },
+        "011" : {
+          "_ownerId": "455b415d-ce09-4895-986e-b8ce1a799a48",
+          "activity": "want",
+          "listId": "1",
+          "bookId": "dd6e4f9d-d082-552d-b888-7276a25b5aca",
+          "_createdOn": "1690798247197"
+        },
+        "012" : {
+          "_ownerId": "455b415d-ce09-4895-986e-b8ce1a799a48",
+          "activity": "want",
+          "listId": "532",
+          "bookId": "0398a355-c032-534e-a0af-647b06f0840d",
+          "_createdOn": "1690798252021"
+        },
+        "013" : {
+          "_ownerId": "455b415d-ce09-4895-986e-b8ce1a799a48",
+          "activity": "want",
+          "listId": "532",
+          "bookId": "e9569270-fe3a-5fe4-a068-7eca3da622e7",
+          "_createdOn": "1690798256806"
+        },
+        "014" : {
+          "_ownerId": "455b415d-ce09-4895-986e-b8ce1a799a48",
+          "activity": "currently",
+          "listId": "13",
+          "bookId": "8384c64a-d0de-5285-9132-8f16cc7b085f",
+          "_createdOn": "1690798289537"
+        },
+        "015" : {
+          "_ownerId": "455b415d-ce09-4895-986e-b8ce1a799a48",
+          "activity": "read",
+          "listId": "17",
+          "bookId": "0962ac94-2f91-5500-bcf8-24c90607bc4a",
+          "_createdOn": "1690798296044"
+        },
+        "016" : {
+          "_ownerId": "455b415d-ce09-4895-986e-b8ce1a799a48",
+          "activity": "read",
+          "listId": "301",
+          "bookId": "7cd90059-ec8b-53ae-8a5d-6697b3c191c7",
+          "_createdOn": "1690798306393"
+        },
+        "009" : {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "activity": "want",
+          "listId": "302",
+          "bookId": "e093216d-a3f3-5b3b-8bee-fea6808cabb8",
+          "_createdOn": "1690798247198"
+        },
+        "010" : {
+          "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+          "activity": "want",
+          "listId": "10016",
+          "bookId": "bc9d9c11-51e8-5885-9239-fa84b126632d",
+          "_createdOn": "1690798247199"
+        },
+        "3bbcbced-85c1-4258-8128-d7b5bda5c35f" : {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "activity": "want",
+          "listId": "719",
+          "bookId": "30ca1735-594d-5fb6-a065-cb9306f2071a",
+          "_createdOn": "1690800320893"
+        },
+        "15918a02-4c92-47ba-bbb1-a82c731025e6" : {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "activity": "want",
+          "listId": "10018",
+          "bookId": "a4906c3b-1e9c-5855-9abb-7ea8aff4b7cb",
+          "_createdOn": "1690800333664"
+        },
+        "b6ee367e-d10b-48dc-ba22-b819c30cc386" : {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "activity": "want",
+          "listId": "302",
+          "bookId": "cdd69a90-455d-5194-8060-86c0df2ea509",
+          "_createdOn": "1690800339359"
+        },
+        "18bb4f96-5434-4733-a173-c458c8dc37ac" : {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "activity": "read",
+          "listId": "13",
+          "bookId": "ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
+          "_createdOn": "1690800352710"
+        },
+        "0830abf3-e0b3-491b-b690-fae2d95e9735" : {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "activity": "read",
+          "listId": "24",
+          "bookId": "61980bbe-79bd-5824-9412-31c5f07762fd",
+          "_createdOn": "1690800367085"
+        },
+        "e61279bc-cc3e-4f5c-a309-0ccd4ddc7794" : {
+          "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+          "activity": "read",
+          "listId": "532",
+          "bookId": "b0fe54f6-2468-55d3-bedf-0338f98478e6",
+          "_createdOn": "1690800372306"
+        },
+      },
     };
     var settings = {
     	identity: identity,
